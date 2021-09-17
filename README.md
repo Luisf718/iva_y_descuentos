@@ -1,1 +1,2 @@
 # iva_y_descuentos
+Este es un proyecto que puede calcular el precio de un producto con el iva o con descuento, solo tienes que crear un diccionario con el precio de cada producto en las llaves y el iva o el descuento en los valores del diccionario 
